@@ -1,4 +1,4 @@
-//generated code using block
+//generated code using blocks
 var earnings_expenses, num_one, earnings, expenses, item;
 
 function getNumberOrString(value) {
